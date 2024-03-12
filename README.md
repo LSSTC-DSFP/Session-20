@@ -26,7 +26,7 @@ Lucianne Walkowicz [:earth_africa:](https://notnotrocketscience.com/home)
 ~ Louise Banks, *Arrival* 
 
 
-Monday, March 25, 2024
+[Tilden Room](https://maps.app.goo.gl/ARbHSxmpQyZdKMGR6) Monday, March 25, 2024
 
  * 09:00 AM – 09:30 AM  o Introduction of Guest Instructors and Code of Conduct Conversation
  * 09:30 AM - 09:45 AM  o Overview of Time Series Methods and Welcome from SETI Breakthrough Listen 
@@ -45,8 +45,7 @@ Monday, March 25, 2024
 
 ~ Poul Anderson, *Tau Zero*
 
-
-Tuesday, March 26, 2024
+[Tilden Room](https://maps.app.goo.gl/ARbHSxmpQyZdKMGR6) Tuesday, March 26, 2024
 
  * 09:30 AM – 10:30 AM  o [Lecture IV](Day2/) – Gaussian Processes I: C Hedges
  * 10:30 AM – 11:00 AM  o  BREAK
@@ -65,8 +64,7 @@ Tuesday, March 26, 2024
 
 ~ The Tenth Doctor, *Doctor Who*
 
-
-Wednesday, March 27, 2024
+[Tilden Room](https://maps.app.goo.gl/ARbHSxmpQyZdKMGR6) Wednesday, March 27, 2024
 
 * 09:00 AM - 10:00 AM o [Lecture VII](Day3/) – Lomb Scargle Periodograms II: S Blunt
 * 10:00 AM - 10:30 AM o BREAK
@@ -79,7 +77,7 @@ Wednesday, March 27, 2024
 
 ~ Liu Cixin, *The Three Body Problem*
 
-Thursday, March 28, 2024
+[Sgt Johnson Room, Clark Kerr Campus](https://maps.app.goo.gl/Ckn28d57zac29bXy5)) Thursday, March 28, 2024
 
 * 09:00 AM – 10:00 AM o [Lecture VIII](Day4/): Autoregressive Methods: S Banagiri
 * 10:00 AM – 10:30 AM o BREAK 
@@ -96,7 +94,7 @@ Thursday, March 28, 2024
 
 ~ Jean Luc Picard, *Star Trek: Generations*
 
-Friday, March 29, 2024
+California Room, Graduate Berkeley, Friday, March 29, 2024
 
 * 9:00 AM - 10:00  AM o [Lecture X](Day5/) – Science Communication and Policy: J McCall 
 * 10:00 AM – 10:45 AM o [Problem X](Day5/) - Science Communication and Policy: J McCall 
