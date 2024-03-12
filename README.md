@@ -36,7 +36,7 @@ Monday, March 25, 2024
  * 12:15 PM – 01:45 PM  o  LUNCH
  * 01:45 PM – 02:30 PM  o [Lecture II](Day1/) Fourier Analysis II: B Scott
  * 02:30 PM – 03:30 PM  o [Problem II](Day1/) Signal Processing and Filtering: B Scott
- * 03:30 PM – 03:40 PM  o  BREAK
+ * 03:30 PM – 04:00 PM  o  BREAK
  * 04:00 PM – 05:00 PM  o [Lecture III]() The Art of Cadence Diplomacy: L Walkowicz 
  
 ## Day 2 – Lomb Scargle and Gaussian Processes
