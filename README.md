@@ -30,14 +30,14 @@ Monday, March 25, 2024
 
  * 09:00 AM – 09:30 AM  o Introduction of Guest Instructors and Code of Conduct Conversation
  * 09:30 AM - 09:45 AM  o Overview of Time Series Methods and Welcome from SETI Breakthrough Listen 
- * 09:45 AM – 10:45 AM  o [Lecture I] Introduction to Time Series: B Scott
+ * 09:45 AM – 10:45 AM  o [Lecture I](Day1/) Introduction to Time Series: B Scott
  * 10:45 AM – 11:15 AM  o  BREAK
- * 11:15 AM – 12:15 PM  o  [Problem I] Fourier Analysis I: B Scott
+ * 11:15 AM – 12:15 PM  o  [Problem I](Day1/) Fourier Analysis I: B Scott
  * 12:15 PM – 01:45 PM  o  LUNCH
- * 01:45 PM – 02:30 PM  o [Lecture II] Fourier Analysis II: B Scott
- * 02:30 PM – 03:30 PM  o [Problem II] Signal Processing and Filtering: B Scott
+ * 01:45 PM – 02:30 PM  o [Lecture II](Day1/) Fourier Analysis II: B Scott
+ * 02:30 PM – 03:30 PM  o [Problem II](Day1/) Signal Processing and Filtering: B Scott
  * 03:30 PM – 03:40 PM  o  BREAK
- * 04:00 PM – 05:00 PM  o [Lecture III] The Art of Cadence Diplomacy: L Walkowicz 
+ * 04:00 PM – 05:00 PM  o [Lecture III]() The Art of Cadence Diplomacy: L Walkowicz 
  
 ## Day 2 – Lomb Scargle and Gaussian Processes
 
@@ -48,15 +48,15 @@ Monday, March 25, 2024
 
 Tuesday, March 26, 2024
 
- * 09:30 AM – 10:30 AM  o [Lecture IV] – Gaussian Processes I: C Hedges
+ * 09:30 AM – 10:30 AM  o [Lecture IV](Day2/) – Gaussian Processes I: C Hedges
  * 10:30 AM – 11:00 AM  o  BREAK
- * 11:00 AM – 12:00 PM  o [Problem IV] Gaussian Processes I: C Hedges
+ * 11:00 AM – 12:00 PM  o [Problem IV](Day2/) Gaussian Processes I: C Hedges
  * 12:00 PM - 01:30 PM o LUNCH 
- * 01:30 PM – 02:30 PM  o [Lecture V] – Gaussian Processes II: C Hedges
- * 02:30 PM – 03:30 PM  o [Problem V] Gaussian Processes II: C Hedges
+ * 01:30 PM – 02:30 PM  o [Lecture V](Day2/) – Gaussian Processes II: C Hedges
+ * 02:30 PM – 03:30 PM  o [Problem V](Day2/) Gaussian Processes II: C Hedges
  * 03:30 PM - 04:00 PM o BREAK 
- * 04:00 PM - 05:00 PM o [Lecture VI] – Lomb Scargle Periodograms I: S Blunt
- * 05:00 PM - 06:00 PM o [Problem VI] – Lomb Scargle Periodograms I: S Blunt
+ * 04:00 PM - 05:00 PM o [Lecture VI](Day2/) – Lomb Scargle Periodograms I: S Blunt
+ * 05:00 PM - 06:00 PM o [Problem VI](Day2/) – Lomb Scargle Periodograms I: S Blunt
  * 06:30 PM - ??:?? PM o Group dinner 
  
 ## Day 3 — Lomb Scargle 
@@ -68,9 +68,9 @@ Tuesday, March 26, 2024
 
 Wednesday, March 27, 2024
 
-* 09:00 AM - 10:00 AM o [Lecture VII] – Lomb Scargle Periodograms II: S Blunt
+* 09:00 AM - 10:00 AM o [Lecture VII](Day3/) – Lomb Scargle Periodograms II: S Blunt
 * 10:00 AM - 10:30 AM o BREAK
-* 10:30 AM - 12:00 PM o [Problem VII]: Lomb Scargle Periodograms II: S Blunt
+* 10:30 AM - 12:00 PM o [Problem VII](Day3/): Lomb Scargle Periodograms II: S Blunt
 * 12:00 PM - ??:?? PM o BREAK
 
 ## Day 4 — Autoregressive Methods and Matched Filtering 
@@ -81,12 +81,12 @@ Wednesday, March 27, 2024
 
 Thursday, March 28, 2024
 
-* 09:00 AM – 10:00 AM o [Lecture VIII]: Autoregressive Methods: S Banagiri
+* 09:00 AM – 10:00 AM o [Lecture VIII](Day4/): Autoregressive Methods: S Banagiri
 * 10:00 AM – 10:30 AM o BREAK 
-* 10:30 AM – 12:00 PM o [Problem VIII]:  Autoregressive Methods: S Banagiri
+* 10:30 AM – 12:00 PM o [Problem VIII](Day4/):  Autoregressive Methods: S Banagiri
 * 12:00 PM – 01:30 PM o LUNCH
-* 01:30 PM – 02:30 PM o [Lecture IX]:  Matched Filtering: S Banagiri
-* 02:30 PM – 04:00 PM o [Problem IX]:  Matched Filtering: : S Banagiri
+* 01:30 PM – 02:30 PM o [Lecture IX](Day4/):  Matched Filtering: S Banagiri
+* 02:30 PM – 04:00 PM o [Problem IX](Day4/):  Matched Filtering: : S Banagiri
 * 04:00 PM – 04:30 PM o BREAK 
 * 04:30 PM – 05:00 PM o Hack Pitch Session  
  
@@ -98,8 +98,8 @@ Thursday, March 28, 2024
 
 Friday, March 29, 2024
 
-* 9:00 AM - 10:00  AM o Lecture X – Science Communication and Policy: J McCall 
-* 10:00 AM – 10:45 AM o Problem X - Science Communication and Policy: J McCall 
+* 9:00 AM - 10:00  AM o [Lecture X](Day5/) – Science Communication and Policy: J McCall 
+* 10:00 AM – 10:45 AM o [Problem X](Day5/) - Science Communication and Policy: J McCall 
 * 10:45 AM – 11:00 AM o BREAK 
 * 11:00 AM – 12:00 PM o Hack Session 
 * 12:00 PM – 01:00 PM o LUNCH 
