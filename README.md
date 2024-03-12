@@ -11,6 +11,7 @@ Sharan Banagiri [:octocat:](https://github.com/sharanbngr)
 Julianne McCall [:earth_africa:](https://opr.ca.gov/ciapm/about/staff.html#current-staff)  
 
 Additional lectures were given by the DSFP leadership team:  
+
 Bryan Scott [:octocat:](https://github.com/bscot)  
 Lucianne Walkowicz [:earth_africa:](https://notnotrocketscience.com/home)
 
