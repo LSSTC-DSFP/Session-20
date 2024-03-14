@@ -15,10 +15,10 @@ Additional lectures were given by the DSFP leadership team:
 Bryan Scott [:octocat:](https://github.com/bscot)  
 Lucianne Walkowicz [:earth_africa:](https://notnotrocketscience.com/home)
 
-Breakthrough Listen Local Organizing Partners: 
-Karen Aguilar 
-Matt Lebofsky 
-Andrew Siemion  
+Breakthrough Listen Local Organizing Partners:   
+Karen Aguilar   
+Matt Lebofsky    
+Andrew Siemion    
 James Davenport  
 
 # Schedule
