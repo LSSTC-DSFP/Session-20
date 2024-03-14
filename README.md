@@ -1,6 +1,6 @@
 # Session 20: Time Series Methods 
 
-The twentieth session of the LSSTC DSFP was hosted by SETI Breakthrough Listen at the University of California, Berkeley in March 2024. The curriculum focuses on Time Series Methods.
+The twentieth session of the LSSTC DSFP was hosted by [SETI Breakthrough Listen](https://seti.berkeley.edu/listen/) at the University of California, Berkeley in March 2024. The curriculum focuses on Time Series Methods.
 
 The guest instructors for S20 were:  
 
@@ -15,6 +15,11 @@ Additional lectures were given by the DSFP leadership team:
 Bryan Scott [:octocat:](https://github.com/bscot)  
 Lucianne Walkowicz [:earth_africa:](https://notnotrocketscience.com/home)
 
+Breakthrough Listen Local Organizing Partners:
+Karen Aguilar  
+Matt Lebofsky
+Andrew Siemion 
+James Davenport
 
 # Schedule
 
