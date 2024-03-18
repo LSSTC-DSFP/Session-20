@@ -13,7 +13,7 @@ Julianne McCall [:earth_africa:](https://opr.ca.gov/ciapm/about/staff.html#curre
 Additional lectures were given by the DSFP leadership team:  
 
 Bryan Scott [:octocat:](https://github.com/bscot)  
-Lucianne Walkowicz [:earth_africa:](https://notnotrocketscience.com/home)
+Lucian Walkowicz [:earth_africa:](https://notnotrocketscience.com/home)
 
 Breakthrough Listen Local Organizing Partners:   
 Karen Aguilar   
@@ -60,7 +60,7 @@ James Davenport
  * 02:30 PM – 03:30 PM  o [Lecture V](Day2/) Gaussian Processes II: C Hedges
  * 03:30 PM - 04:00 PM o BREAK 
  * 04:00 PM - 05:00 PM o [Problem V](Day2/) – Gaussian Processes II: C Hedges
- * 05:00 PM - 06:00 PM o [Lecture VI](Day2/) – The Art of Cadence Diplomacy 
+ * 05:00 PM - 06:00 PM o [Lecture VI](Day2/) – The Art of Cadence Diplomacy: L Walkowicz 
  * 06:30 PM - ??:?? PM o Group dinner 
  
 ## Day 3 — Lomb Scargle 
