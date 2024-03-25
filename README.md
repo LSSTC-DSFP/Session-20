@@ -61,7 +61,7 @@ James Davenport
  * 02:30 PM - 03:00 PM o BREAK 
  * 03:00 PM - 04:00 PM o [Problem V](Day2/) – Gaussian Processes II: C Hedges
  * 04:00 PM - 05:00 PM o [Lecture VI](Day2/) – The Art of Cadence Diplomacy: L Walkowicz 
- * 06:00 PM - ??:?? PM o Group dinner, TBD
+ * 06:30 PM - ??:?? PM o Group Dinner: Cancun Sabor Mexicano - 2134 Allston Way, Berkeley, CA
  
 ## Day 3 — Lomb Scargle 
 
