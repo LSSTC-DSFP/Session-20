@@ -50,7 +50,7 @@ James Davenport
 
 ~ Poul Anderson, *Tau Zero*
 
-[131 Campbell Hall]( https://maps.app.goo.gl/ARbHSxmpQyZdKMGR6](https://maps.app.goo.gl/JSyRYM2KKyLLfoXdA ) Tuesday, March 26, 2024
+[131 Campbell Hall](https://maps.app.goo.gl/JSyRYM2KKyLLfoXdA?_nr=1) Tuesday, March 26, 2024
 
  * 09:00 AM – 09:30 AM  o [Lecture III](Day2/) – Lomb Scargle Periodograms I: S Blunt (cont) 
  * 09:30 AM - 10:30 AM o [Problem III](Day2/) – Lomb Scargle Periodograms I: S Blunt 
@@ -70,7 +70,7 @@ James Davenport
 
 ~ The Tenth Doctor, *Doctor Who*
 
-[131 Campbell Hall]( https://maps.app.goo.gl/ARbHSxmpQyZdKMGR6](https://maps.app.goo.gl/JSyRYM2KKyLLfoXdA ) Wednesday, March 27, 2024
+[131 Campbell Hall](https://maps.app.goo.gl/JSyRYM2KKyLLfoXdA?_nr=1) Wednesday, March 27, 2024
 
 * 09:00 AM - 10:00 AM o [Lecture VII](Day3/) – Lomb Scargle Periodograms II: S Blunt
 * 10:00 AM - 10:30 AM o BREAK
@@ -83,7 +83,7 @@ James Davenport
 
 ~ Liu Cixin, *The Three Body Problem*
 
-[131 Campbell Hall]( https://maps.app.goo.gl/ARbHSxmpQyZdKMGR6](https://maps.app.goo.gl/JSyRYM2KKyLLfoXdA ) Thursday, March 28, 2024
+[131 Campbell Hall](https://maps.app.goo.gl/JSyRYM2KKyLLfoXdA?_nr=1) Thursday, March 28, 2024
 
 * 09:00 AM – 10:00 AM o [Lecture VIII](Day4/): Autoregressive Methods: S Banagiri
 * 10:00 AM – 10:30 AM o BREAK 
