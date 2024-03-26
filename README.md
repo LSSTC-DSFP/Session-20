@@ -50,17 +50,18 @@ James Davenport
 
 ~ Poul Anderson, *Tau Zero*
 
-[Tilden Room](https://maps.app.goo.gl/ARbHSxmpQyZdKMGR6) Tuesday, March 26, 2024
+[131 Campbell Hall]( https://maps.app.goo.gl/ARbHSxmpQyZdKMGR6](https://maps.app.goo.gl/JSyRYM2KKyLLfoXdA ) Tuesday, March 26, 2024
 
- * 08:00 AM – 09:00 AM  o [Problem III](Day2/) – Lomb Scargle Periodograms I: S Blunt
- * 09:00 AM – 10:00 AM  o  BREAK
- * 10:00 AM – 11:00 AM  o [Lecture IV](Day2/) Gaussian Processes I: C Hedges
- * 11:00 AM - 12:30 PM o LUNCH 
- * 12:30 PM – 01:30 PM  o [Problem IV](Day2/) – Gaussian Processes I: C Hedges
- * 01:30 PM – 02:30 PM  o [Lecture V](Day2/) Gaussian Processes II: C Hedges
- * 02:30 PM - 03:00 PM o BREAK 
- * 03:00 PM - 04:00 PM o [Problem V](Day2/) – Gaussian Processes II: C Hedges
- * 04:00 PM - 05:00 PM o [Lecture VI](Day2/) – The Art of Cadence Diplomacy: L Walkowicz 
+ * 09:00 AM – 09:30 AM  o [Lecture III](Day2/) – Lomb Scargle Periodograms I: S Blunt (cont) 
+ * 09:30 AM - 10:30 AM o [Problem III](Day2/) – Lomb Scargle Periodograms I: S Blunt 
+ * 10:30 AM – 11:00 AM  o  BREAK
+ * 11:00 AM – 12:00 PM  o [Lecture IV](Day2/) Regression for Time Series I: C Hedges
+ * 12:00 PM - 01:30 PM o LUNCH 
+ * 01:30 PM – 02:30 PM  o [Problem IV](Day2/) – Regression for Time Series I: C Hedges
+ * 02:30 PM – 03:30 PM  o [Lecture V](Day2/) Regression for Time Series II: C Hedges
+ * 03:30 PM - 04:00 PM o BREAK 
+ * 04:00 PM - 05:00 PM o [Problem V](Day2/) – Regression for Time Series II: C Hedges
+ * 05:00 PM - 06:00 PM o [Lecture VI](Day2/) The Art of Cadence Diplomacy: L Walkowicz
  * 06:30 PM - ??:?? PM o Group Dinner: Cancun Sabor Mexicano - 2134 Allston Way, Berkeley, CA
  
 ## Day 3 — Lomb Scargle 
@@ -69,7 +70,7 @@ James Davenport
 
 ~ The Tenth Doctor, *Doctor Who*
 
-[Tilden Room](https://maps.app.goo.gl/ARbHSxmpQyZdKMGR6) Wednesday, March 27, 2024
+[131 Campbell Hall]( https://maps.app.goo.gl/ARbHSxmpQyZdKMGR6](https://maps.app.goo.gl/JSyRYM2KKyLLfoXdA ) Wednesday, March 27, 2024
 
 * 09:00 AM - 10:00 AM o [Lecture VII](Day3/) – Lomb Scargle Periodograms II: S Blunt
 * 10:00 AM - 10:30 AM o BREAK
@@ -82,7 +83,7 @@ James Davenport
 
 ~ Liu Cixin, *The Three Body Problem*
 
-[Sgt Johnson Room, Clark Kerr Campus](https://maps.app.goo.gl/Ckn28d57zac29bXy5) Thursday, March 28, 2024
+[131 Campbell Hall]( https://maps.app.goo.gl/ARbHSxmpQyZdKMGR6](https://maps.app.goo.gl/JSyRYM2KKyLLfoXdA ) Thursday, March 28, 2024
 
 * 09:00 AM – 10:00 AM o [Lecture VIII](Day4/): Autoregressive Methods: S Banagiri
 * 10:00 AM – 10:30 AM o BREAK 
@@ -99,7 +100,7 @@ James Davenport
 
 ~ Jean Luc Picard, *Star Trek: Generations*
 
-California Room, Graduate Berkeley, Friday, March 29, 2024
+Location TBD, Friday, March 29, 2024
 
 * 9:00 AM - 10:00  AM o [Lecture X](Day5/) – Science Communication and Policy: J McCall 
 * 10:00 AM – 10:45 AM o [Problem X](Day5/) - Science Communication and Policy: J McCall 
