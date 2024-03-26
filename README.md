@@ -50,7 +50,7 @@ James Davenport
 
 ~ Poul Anderson, *Tau Zero*
 
-[131 Campbell Hall]([https://maps.app.goo.gl/ARbHSxmpQyZdKMGR6](https://maps.app.goo.gl/JSyRYM2KKyLLfoXdA)) Tuesday, March 26, 2024
+[131 Campbell Hall](https://maps.app.goo.gl/ARbHSxmpQyZdKMGR6](https://maps.app.goo.gl/JSyRYM2KKyLLfoXdA) Tuesday, March 26, 2024
 
  * 09:00 AM – 09:30 AM  o [Lecture III](Day2/) – Lomb Scargle Periodograms I: S Blunt (cont) 
  * 09:30 AM - 10:30 AM o [Lecture IV](Day2/) The Art of Cadence Diplomacy: L Walkowicz
