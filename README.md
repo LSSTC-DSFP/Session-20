@@ -50,17 +50,18 @@ James Davenport
 
 ~ Poul Anderson, *Tau Zero*
 
-[Tilden Room](https://maps.app.goo.gl/ARbHSxmpQyZdKMGR6) Tuesday, March 26, 2024
+[131 Campbell Hall]([https://maps.app.goo.gl/ARbHSxmpQyZdKMGR6](https://maps.app.goo.gl/JSyRYM2KKyLLfoXdA)) Tuesday, March 26, 2024
 
- * 08:00 AM – 09:00 AM  o [Problem III](Day2/) – Lomb Scargle Periodograms I: S Blunt
- * 09:00 AM – 10:00 AM  o  BREAK
- * 10:00 AM – 11:00 AM  o [Lecture IV](Day2/) Gaussian Processes I: C Hedges
- * 11:00 AM - 12:30 PM o LUNCH 
- * 12:30 PM – 01:30 PM  o [Problem IV](Day2/) – Gaussian Processes I: C Hedges
- * 01:30 PM – 02:30 PM  o [Lecture V](Day2/) Gaussian Processes II: C Hedges
- * 02:30 PM - 03:00 PM o BREAK 
- * 03:00 PM - 04:00 PM o [Problem V](Day2/) – Gaussian Processes II: C Hedges
- * 04:00 PM - 05:00 PM o [Lecture VI](Day2/) – The Art of Cadence Diplomacy: L Walkowicz 
+ * 09:00 AM – 09:30 AM  o [Lecture III](Day2/) – Lomb Scargle Periodograms I: S Blunt (cont) 
+ * 09:30 AM - 10:30 AM o [Lecture IV](Day2/) The Art of Cadence Diplomacy: L Walkowicz
+ * 10:30 AM – 11:00 AM  o  BREAK
+ * 11:00 AM – 12:00 PM  o [Lecture V](Day2/) Regression for Time Series I: C Hedges
+ * 12:00 PM - 01:30 PM o LUNCH 
+ * 01:30 PM – 02:30 PM  o [Problem V](Day2/) – Regression for Time Series I: C Hedges
+ * 02:30 PM – 03:30 PM  o [Lecture VI](Day2/) Regression for Time Series II: C Hedges
+ * 03:30 PM - 04:00 PM o BREAK 
+ * 04:00 PM - 05:00 PM o [Problem VI](Day2/) – Regression for Time Series II: C Hedges
+ * 05:00 PM - 06:00 PM o [Problem III](Day2/) – Lomb Scargle Periodograms I: S Blunt 
  * 06:30 PM - ??:?? PM o Group Dinner: Cancun Sabor Mexicano - 2134 Allston Way, Berkeley, CA
  
 ## Day 3 — Lomb Scargle 
