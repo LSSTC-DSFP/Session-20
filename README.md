@@ -77,6 +77,8 @@ James Davenport
 * 10:30 AM - 12:00 PM o [Problem VII](Day3/): Lomb Scargle Periodograms II: S Blunt
 * 12:00 PM - ??:?? PM o BREAK
 
+Sacramento Visit Schedule [Here](https://github.com/LSSTC-DSFP/Session-20/blob/main/Sacramento-schedule.md) 
+
 ## Day 4 — Autoregressive Methods and Matched Filtering 
 
 "Outside the ship, the thin membrane of space-time rippled with the gravitational waves, like a placid lake surface disturbed by a night breeze."
