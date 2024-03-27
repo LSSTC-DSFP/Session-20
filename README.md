@@ -87,12 +87,12 @@ Sacramento Visit Schedule [Here](https://github.com/LSSTC-DSFP/Session-20/blob/m
 
 [131 Campbell Hall](https://maps.app.goo.gl/JSyRYM2KKyLLfoXdA?_nr=1) Thursday, March 28, 2024
 
-* 09:00 AM – 10:00 AM o [Lecture VIII](Day4/): Autoregressive Methods: S Banagiri
+* 09:00 AM – 10:00 AM o [Lecture VIII](Day4/): Matched Filtering: S Banagiri
 * 10:00 AM – 10:30 AM o BREAK 
-* 10:30 AM – 12:00 PM o [Problem VIII](Day4/):  Autoregressive Methods: S Banagiri
+* 10:30 AM – 12:00 PM o [Problem VIII](Day4/):  Matched Filtering: : S Banagiri
 * 12:00 PM – 01:30 PM o LUNCH
-* 01:30 PM – 02:30 PM o [Lecture IX](Day4/):  Matched Filtering: S Banagiri
-* 02:30 PM – 04:00 PM o [Problem IX](Day4/):  Matched Filtering: : S Banagiri
+* 01:30 PM – 02:30 PM o [Lecture IX](Day4/):  Autoregressive Methods: S Banagiri
+* 02:30 PM – 04:00 PM o [Problem IX](Day4/):  Autoregressive Methods: S Banagiri
 * 04:00 PM – 04:30 PM o BREAK 
 * 04:30 PM – 05:00 PM o Hack Pitch Session  
  
@@ -108,6 +108,6 @@ Location TBD, Friday, March 29, 2024
 * 10:00 AM – 10:45 AM o [Problem X](Day5/) - Science Communication and Policy: J McCall 
 * 10:45 AM – 11:00 AM o BREAK 
 * 11:00 AM – 12:00 PM o Hack Session 
-* 12:00 PM – 01:00 PM o LUNCH 
-* 01:00 PM – 03:00 PM o Hack Session;
-* 03:00 PM – 03:45 PM o Discussion of Time Series Methods and Hack Session Results 
+* 12:00 PM – 01:30 PM o LUNCH 
+* 01:30 PM – 04:30 PM o Hack Session;
+* 04:30 PM – 05:00 PM o Discussion of Time Series Methods and Hack Session Results 
