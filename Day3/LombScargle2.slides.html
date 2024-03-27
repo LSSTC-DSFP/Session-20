@@ -7596,7 +7596,7 @@ main {
 </div>
 </div>
 </div>
-</div>
+</div></section></section><section><section>
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -7605,6 +7605,23 @@ main {
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <p>Aside: "why can't we just subtract the mean before computing the periodogram?</p>
 <p><img alt="data-example" src="data-and-images/vanderPlas-fig18.jpg"/></p>
+</div>
+</div>
+</div>
+</div></section></section><section><section>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p>Some important limitations:</p>
+<ul>
+<li>The Lomb-Scargle periodogram is valid for <em>uncorrelated Gaussian noise</em>. Correlated and/or non-Gaussian noise invalidates a lot of the math (and makes the periodogram perform badly in practice).</li>
+<li>The Lomb-Scargle periodogram is not always easy to interpret. Especially in low-SNR situations, window function peaks, aliases, and beat periods are often confused for true signals.</li>
+<li>The Lomb-Scargle periodogram fits a <em>sinusoidal</em> model to your data. If you have a strictly periodic thing that isn't shaped like a sinusoid, the periodogram may not recover it (but see problem 3).</li>
+<li>The Lomb-Scargle periodogram is not a reliable method of error estimation. It should be used for periodicity identification, but <em>not</em> as a substitute for model-fitting and uncertainty quantification (e.g. with MCMC).</li>
+</ul>
 </div>
 </div>
 </div>
