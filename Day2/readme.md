@@ -4,7 +4,7 @@
 
 ~ Poul Anderson, *Tau Zero*
 
-[Tilden Room](https://maps.app.goo.gl/ARbHSxmpQyZdKMGR6) Tuesday, March 26, 2024
+[131 Campbell Hall](https://maps.app.goo.gl/JSyRYM2KKyLLfoXdA?_nr=1) Tuesday, March 26, 2024
 
  * 09:30 AM – 10:30 AM  o [Lecture IV](Day2/) – Gaussian Processes I: C Hedges
  * 10:30 AM – 11:00 AM  o  BREAK

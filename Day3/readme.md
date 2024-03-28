@@ -4,7 +4,7 @@
 
 ~ The Tenth Doctor, *Doctor Who*
 
-[Tilden Room](https://maps.app.goo.gl/ARbHSxmpQyZdKMGR6) Wednesday, March 27, 2024
+[131 Campbell Hall](https://maps.app.goo.gl/JSyRYM2KKyLLfoXdA?_nr=1) Wednesday, March 27, 2024
 
 * 09:00 AM - 10:00 AM o [Lecture VII](Day3/) – Lomb Scargle Periodograms II: S Blunt
 * 10:00 AM - 10:30 AM o BREAK
