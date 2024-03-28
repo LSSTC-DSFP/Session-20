@@ -4,7 +4,7 @@
 
 ~ Liu Cixin, *The Three Body Problem*
 
-[Sgt Johnson Room, Clark Kerr Campus](https://maps.app.goo.gl/Ckn28d57zac29bXy5)) Thursday, March 28, 2024
+[131 Campbell Hall](https://maps.app.goo.gl/JSyRYM2KKyLLfoXdA?_nr=1) Thursday, March 28, 2024
 
 * 09:00 AM – 10:00 AM o [Lecture VIII](Day4/): Autoregressive Methods: S Banagiri
 * 10:00 AM – 10:30 AM o BREAK 
