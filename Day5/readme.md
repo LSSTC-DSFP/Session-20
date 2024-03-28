@@ -4,7 +4,9 @@
 
 ~ Jean Luc Picard, *Star Trek: Generations*
 
-California Room, Graduate Berkeley, Friday, March 29, 2024
+[131 Campbell Hall](https://maps.app.goo.gl/JSyRYM2KKyLLfoXdA?_nr=1) Friday, March 29, 2024
+
+See main readme for updated schedule. 
 
 * 9:00 AM - 10:00  AM o [Lecture X](Day5/) – Science Communication and Policy: J McCall 
 * 10:00 AM – 10:45 AM o [Problem X](Day5/) - Science Communication and Policy: J McCall 
